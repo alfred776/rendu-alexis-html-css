@@ -1,0 +1,56 @@
+body{
+    background: hsl(217, 54%, 11%);
+    margin: 0%;
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: 100vh;
+}
+div{
+    background: hsl(216, 50%, 16%);
+    border-radius: 8%;
+    place-items: center;
+
+}
+.texteCV{
+    color: hsl(178, 100%, 50%);
+}
+.info{
+    display: flex;
+    gap: 28px;
+    justify-content: center;
+}
+.nft-image{
+    width: 100%;
+    border-radius: 20px;
+}
+.User-png{
+    width: 30px;
+    height: 30px;
+}
+.perso{
+    display: flex;
+    gap: 12px;
+align-items: center;
+justify-content: center;
+}
+h1{
+    color: white;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+p{
+    color: hsl(215, 51%, 70%);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+.divclock{
+    display: flex;
+}
+.JWW{
+    color: white;
+}
+.diveth{
+    display: flex;
+}
